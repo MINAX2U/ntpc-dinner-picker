@@ -1,4 +1,4 @@
-// ================ FIXED SCRIPT.JS ================ 
+// ================ SCRIPT.JS ================ 
 // Highlight active page
 document.addEventListener('DOMContentLoaded', highlightActiveLink);
 
